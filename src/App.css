@@ -1,3 +1,12 @@
+
+body{
+  margin-left: 10px;
+}
+
+#root{
+  width: 50%;
+}
+
 .App {
   text-align: center;
 }
